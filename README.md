@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction
-Live App: https://iz6ue9xsctk3csvuqdr47i.streamlit.app/
+Live App: https://telecom-customerchurn-prediction-iz6ue9xsctk3csvuqdr47i.streamlit.app/
 
 This project predicts whether a telecom customer is likely to churn (leave the service) based on customer details, service usage, and billing information.  
 
